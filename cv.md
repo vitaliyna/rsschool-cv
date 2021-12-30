@@ -27,8 +27,10 @@ def multiply(a, b):
     return (a * b)
 ```
 ## Education
-* University: Belarusian State Technological University, Construction of highways
-* Courses: Java
+* University: 
+   * Belarusian State Technological University, Construction of highways
+* Courses: 
+   * Java
 
 ## English
 * A2
