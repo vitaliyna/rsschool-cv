@@ -31,6 +31,7 @@ def multiply(a, b):
    * Belarusian State Technological University, Construction of highways
 * Courses: 
    * Java
+   * RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
 
 ## English
 * A2
