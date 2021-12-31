@@ -1,4 +1,4 @@
-# Naviitski Vitali
+# Navitski Vitali
 ### Software developer
 ## Contacts
 * Location: Minsk, Belarus

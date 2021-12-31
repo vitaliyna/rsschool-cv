@@ -45,7 +45,7 @@ ul {
     list-style: none;
 }
 ul li { 
-    padding-left: 5px; 
+    padding-left: 25px; 
     list-style-type: none; 
     vertical-align: top; 
     background: url('http://media02.hongkiat.com/responsive-resume/bullet.png') 25px 5px no-repeat; 
@@ -53,10 +53,11 @@ ul li {
     font-family: "Balthazar", serif; 
     color: #666; 
     font-size: 1.6em; 
-    line-height: 2.3em; 
+    line-height: 1.3em; 
 }
 img { 
     border: 0; 
+    border-radius: 20%;
     max-width: 100%; 
 }
 a { color: #5582d6; 
